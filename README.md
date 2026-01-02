@@ -2,7 +2,7 @@
 
 ![88](https://github.com/user-attachments/assets/f36cdd8f-60c0-4bb9-88c0-a14340b79076)
 
-Interests:<br>- Artificial Intelligence & Machine Learning  <br>- AI Agents & LLMs  <br>- Data Science & NLP  <br>- Full-Stack Web Development (MERN)  <br><br><br>📌 Currently Exploring<br>- Agentic AI Systems  <br>- Graph Neural Networks  <br>- LLM-powered applications  <br><br>📫 Let's Connect<br>- LinkedIn: https://linkedin.com/in/kundaram-vamshi  <br>- Portfolio: https://your-portfolio-link
+Interests:<br>- Artificial Intelligence & Machine Learning  <br>- AI Agents & LLMs  <br>- Data Science & NLP  <br>- Full-Stack Web Development (MERN)  <br><br><br>📌 Currently Exploring<br>- Agentic AI Systems  <br>- Graph Neural Networks  <br>- LLM-powered applications  <br><br>
 
 
 ## 🌐 Socials:
