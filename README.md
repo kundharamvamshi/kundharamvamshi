@@ -1,19 +1,71 @@
-## Hi 👋 I'm Kundharam Vamshi<br><br>🚀 Tech enthusiast with a strong interest in **Artificial Intelligence & Machine Learning**  <br>💻 Full-Stack MERN Developer | AI Agents | Data Science  <br>🎓 Passionate about building intelligent, scalable, real-world systems<br><br>
+<div align="center">
 
-![88](https://github.com/user-attachments/assets/f36cdd8f-60c0-4bb9-88c0-a14340b79076)
+<h2>Hi 👋 I'm Kundharam Vamshi</h2>
 
-## 💻Portfolio: 
+<p>
+🚀 Tech enthusiast with a strong interest in <b>Artificial Intelligence & Machine Learning</b><br>
+💻 Full-Stack MERN Developer | AI Agents | Data Science<br>
+🎓 Passionate about building intelligent, scalable, real-world systems
+</p>
+
+<img src="https://github.com/user-attachments/assets/f36cdd8f-60c0-4bb9-88c0-a14340b79076" width="300"/>
+
+<br><br>
+
+<h2>💻 Portfolio</h2>
+
+<a href="https://kundharamvamshi.github.io/Portfolio">
 https://kundharamvamshi.github.io/Portfolio
+</a>
 
-Interests:<br>- Artificial Intelligence & Machine Learning  <br>- AI Agents & LLMs  <br>- Data Science & NLP  <br>- Full-Stack Web Development (MERN)  <br><br><br>📌 Currently Exploring<br>- Agentic AI Systems  <br>- Graph Neural Networks  <br>- LLM-powered applications  <br><br>
+<br><br>
 
+<h2>🚀 Interests</h2>
 
-## 🌐 Contact :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kundaram-vamshi) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshi07012003@gmail.com) 
+<p>
+Artificial Intelligence & Machine Learning<br>
+AI Agents & LLMs<br>
+Data Science & NLP<br>
+Full-Stack Web Development (MERN)
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
 
+<h2>📌 Currently Exploring</h2>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+Agentic AI Systems<br>
+Graph Neural Networks<br>
+LLM-powered applications
+</p>
+
+<br>
+
+<h2>🌐 Contact</h2>
+
+<a href="https://linkedin.com/in/kundaram-vamshi">
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:vamshi07012003@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<h2>💻 Tech Stack</h2>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+
+</div>
