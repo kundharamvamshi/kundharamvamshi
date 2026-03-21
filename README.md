@@ -2,10 +2,13 @@
 
 ![88](https://github.com/user-attachments/assets/f36cdd8f-60c0-4bb9-88c0-a14340b79076)
 
+## 💻Portfolio: 
+https://kundharamvamshi.github.io/Portfolio
+
 Interests:<br>- Artificial Intelligence & Machine Learning  <br>- AI Agents & LLMs  <br>- Data Science & NLP  <br>- Full-Stack Web Development (MERN)  <br><br><br>📌 Currently Exploring<br>- Agentic AI Systems  <br>- Graph Neural Networks  <br>- LLM-powered applications  <br><br>
 
 
-## 🌐 Socials:
+## 🌐 Contact :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kundaram-vamshi) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vamshi07012003@gmail.com) 
 
